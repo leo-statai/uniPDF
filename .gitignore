@@ -1,0 +1,9 @@
+venv/
+.claude/
+CLAUDE.md
+__pycache__/
+*.pyc
+*.pyo
+input/
+output/
+*.pdf
